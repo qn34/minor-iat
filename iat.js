@@ -1,3 +1,4 @@
+console.log('iat.js loaded');
 define(['pipAPI', 'https://raw.githubusercontent.com/qn34/minor-iat/main/minor%20ait.js'], function(APIConstructor, iatExtension){
  var API = new APIConstructor();
 
