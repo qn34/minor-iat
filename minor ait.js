@@ -1,3 +1,4 @@
+console.log('minor ait.js loaded');
 define(['pipAPI','pipScorer','underscore'], function(APIConstructor,Scorer, _) {
 
 	/**
