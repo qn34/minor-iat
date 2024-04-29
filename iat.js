@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/BIAT/qualtrics/qbiat6.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://raw.githubusercontent.com/qn34/minor-iat/main/iat.js'], function(APIConstructor, iatExtension){
  var API = new APIConstructor();
 
 	
