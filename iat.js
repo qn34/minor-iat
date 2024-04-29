@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://raw.githubusercontent.com/qn34/minor-iat/main/iat.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://github.com/qn34/minor-iat/blob/main/iat.js'], function(APIConstructor, iatExtension){
  var API = new APIConstructor();
 
 	
