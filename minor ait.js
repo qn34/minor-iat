@@ -1,4 +1,4 @@
-define(['pipAPI','https://github.com/qn34/minor-iat/blob/main/minor%20ait.js'], function(APIConstructor,Scorer, _) {
+define(['pipAPI','pipScorer','underscore'], function(APIConstructor,Scorer, _) {
 
 	/**
 	 A few things that this script does not currently support:
